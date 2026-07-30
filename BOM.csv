@@ -1,16 +1,17 @@
-Part,Quantity,Estimated Price Each,Estimated Total,Needed For,Notes
-Arduino Uno R3,1,0,0,Controller,Already owned
-Ultrasonic sensor,1,0,0,Obstacle detection,Already owned
-DC motor,4,0,0,Drive,Already owned
-Jumper wires,1,0,0,Wiring,Already owned
-LEDs,2,0,0,Status indicators,Already owned
-Battery holder,1,0,0,Power mounting,Already owned
-Batteries,1,0,0,Power,Already owned; verify usable voltage/current
-4WD chassis kit,1,25,25,Frame and wheel mounting,Prefer a kit with motor mounts and wheels
-Motor driver,1,8,8,Motor control,TB6612FNG preferred; L298N also works
-Power switch,1,3,3,Main power control,Inline switch
-Joystick controller parts,1,20,20,Manual remote,For a simple physical joystick remote
-IMU sensor,1,10,10,Motion sensing,Optional but good for version 1.5
-Mounting hardware,1,7,7,Screws/standoffs/zip ties,For assembly and cleanup
-Misc. wiring / adapters,1,5,5,Electrical cleanup,Only if needed beyond jumper wires
-Estimated total,$78,,,,
+Part,Quantity,Price Each,Estimated Total,Link,Notes
+Arduino Uno R3,1,0,0,,Already owned
+Ultrasonic sensor,1,0,0,,Already owned
+DC motor,4,0,0,, Included in 4WD chassis kit
+Jumper wires,1,0,0,,Already owned
+LEDs,2,0,0,,Already owned
+Battery holder,1,0,0,,Already owned
+Batteries,1,0,0,,Already owned; need to verify usable voltage/current
+4WD chassis kit,1,23.99,23.99,https://www.microcenter.com/product/707720/hiwonder-4wd-chassis-car-kit-with-aluminum-alloy-frame,Prefer a kit with motor mounts and wheels
+Motor driver,1,5.99,5.99,https://www.microcenter.com/product/613666/adafruit-industries-drv8833-dc-stepper-motor-driver-breakout-board,
+Power switch,1,2.50,2.50,https://www.adafruit.com/product/1125?srsltid=AfmBOoo2LJxPWHYo-1vHvphpK0L_H9S9of1KsEJoQCuqSKOX7dq7asd3oZw,
+Joystick attachment,1,5.95,5.95,https://www.microcenter.com/product/613560/adafruit-industries-analog-2-axis-thumb-joystick-with-select-button-and-breakout-board,For a simple physical joystick remote
+IMU sensor,1,12.99,12.99,https://www.microcenter.com/product/635843/adafruit-industries-mpu-6050-6-dof-accel-and-gyro-sensor-stemma-qt-qwiic,
+M3 bolt set,1,3.99,3.99,https://www.microcenter.com/product/623879/inland-bolt-set-330-pieces,For mounting
+M2.5 screws and standoffs,1,16.95,16.95,https://www.microcenter.com/product/503925/adafruit-industries-black-nylon-screw-and-stand-off-set-%E2%80%93-m25-thread,For mounting
+Zip ties,1,3.99,3.99,https://www.microcenter.com/product/682128/cable-ties-unlimited-8-18lb-uv-cable-ties-100-bag-black,For mounting
+Estimated total,76.35,,,
