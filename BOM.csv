@@ -13,5 +13,4 @@ Joystick controller parts,1,20,20,Manual remote,For a simple physical joystick r
 IMU sensor,1,10,10,Motion sensing,Optional but good for version 1.5
 Mounting hardware,1,7,7,Screws/standoffs/zip ties,For assembly and cleanup
 Misc. wiring / adapters,1,5,5,Electrical cleanup,Only if needed beyond jumper wires
-
-Estimated total: $78
+Estimated total,$78,,,,
