@@ -9,3 +9,5 @@ Features/parts for version 1:
 - Status indication using LEDs
 
 The hardware hasn't been assembled yet, so this repo just has design and planning stuff for now. As I make progress, this README will be updated as I go along, and I'll add firmware, CAD files, and wiring diagrams.
+
+7/30: Remote enclosure file: https://a360.co/4hGH9IE
