@@ -10,3 +10,7 @@ Features/parts for version 1:
 
 ## Wiring Diagram(s)
 <img width="997" height="727" alt="Screenshot 2026-08-21 212820" src="https://github.com/user-attachments/assets/0082b97e-2f16-42cb-b3f3-fa618ede7a95" />
+
+## Render(s)
+<img width="1008" height="632" alt="remotecontrollerv1" src="https://github.com/user-attachments/assets/ed2c1b6f-dc89-4ece-8f5a-ab7d92f53b53" />
+
