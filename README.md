@@ -8,5 +8,5 @@ Features/parts for version 1:
 - Wireless remote control using one joystick and a radio module
 - Status indication using LEDs
 
-Wiring diagram(s):
+## Wiring Diagram(s)
 <img width="997" height="727" alt="Screenshot 2026-08-21 212820" src="https://github.com/user-attachments/assets/0082b97e-2f16-42cb-b3f3-fa618ede7a95" />
