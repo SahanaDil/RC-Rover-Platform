@@ -8,6 +8,5 @@ Features/parts for version 1:
 - Wireless remote control using one joystick and a radio module
 - Status indication using LEDs
 
-The hardware hasn't been assembled yet, so this repo just has design and planning stuff for now. As I make progress, this README will be updated as I go along, and I'll add firmware, CAD files, and wiring diagrams.
-
-7/30: Remote enclosure file: https://a360.co/4hGH9IE
+Wiring diagram(s):
+<img width="997" height="727" alt="Screenshot 2026-08-21 212820" src="https://github.com/user-attachments/assets/0082b97e-2f16-42cb-b3f3-fa618ede7a95" />
