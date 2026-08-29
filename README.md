@@ -18,18 +18,18 @@ Features/parts for version 1:
 ## Credits
 This was made during Hack Club's Stardance YSWS. Thanks Hack Club!
 
-Free Grabcad designs used:
-[TT Gearbox Motor](https://grabcad.com/library/one-way-single-axis-tt-gear-box-motor-detail-model-1)
-[Wheel D65x25](https://grabcad.com/library/wheel-d65x25-1)
-[Arduino UNO R3](https://grabcad.com/library/arduino-uno-r3-1)
-[DRV8833 Dual H-Bridge Motor Driver](https://grabcad.com/library/drv8833-dual-h-bridge-motor-driver-doble-puente-h-1)
-[HC-SR04 Ultrasonic Sensor](https://grabcad.com/library/hc-sr04-ultra-sonic-sensor-for-arduino-1)
-[MPU6050 Accelerometer Module](https://grabcad.com/library/mpu6050-accelerometer-module-1)
-[M4 30mm standoff](https://grabcad.com/library/standoff-m4-30mm-1)
-[M4 socket head cap](https://grabcad.com/library/m4-socket-head-cap-screw-library-m4x4-m4x60-1/details?folder_id=14243896)
-[nrf24l01 Radio Module](https://grabcad.com/library/wireless-radio-transmitter-and-receiver-nrf24l01-1)
-[Joystick Module](https://grabcad.com/library/arduino-joystick-module-1)
-[Arduino Nano](https://grabcad.com/library/arduino-nano--1)
+Free Grabcad designs used: 
+- [TT Gearbox Motor](https://grabcad.com/library/one-way-single-axis-tt-gear-box-motor-detail-model-1)
+- [Wheel D65x25](https://grabcad.com/library/wheel-d65x25-1)
+- [Arduino UNO R3](https://grabcad.com/library/arduino-uno-r3-1)
+- [DRV8833 Dual H-Bridge Motor Driver](https://grabcad.com/library/drv8833-dual-h-bridge-motor-driver-doble-puente-h-1)
+- [HC-SR04 Ultrasonic Sensor](https://grabcad.com/library/hc-sr04-ultra-sonic-sensor-for-arduino-1)
+- [MPU6050 Accelerometer Module](https://grabcad.com/library/mpu6050-accelerometer-module-1)
+- [M4 30mm standoff](https://grabcad.com/library/standoff-m4-30mm-1)
+- [M4 socket head cap](https://grabcad.com/library/m4-socket-head-cap-screw-library-m4x4-m4x60-1/details?folder_id=14243896)
+- [nrf24l01 Radio Module](https://grabcad.com/library/wireless-radio-transmitter-and-receiver-nrf24l01-1)
+- [Joystick Module](https://grabcad.com/library/arduino-joystick-module-1)
+- [Arduino Nano](https://grabcad.com/library/arduino-nano--1)
 
 
 
